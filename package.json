@@ -40,7 +40,6 @@
       "perMachine": false,
       "allowElevation": true,
       "allowToChangeInstallationDirectory": true,
-      "include": "build/win/installer.nsh",
       "artifactName": "rocketchat-setup-${version}.${ext}"
     },
     "appx": {
